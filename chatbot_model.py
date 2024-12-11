@@ -4,6 +4,12 @@ A terminal-based AI chatbot implementation using LangChain.
 Used kaggle lego database to make a more specific chatbot
 """
 
+__author__ = "Allie Peterson, Meghan Nugent, Bailey Fong"
+__copyright__ = "Copyright 2024, Westmont College, Allie Peterson, Meghan Nugent, Bailey Fong"
+__credits__ = ["Allie Peterson, Meghan Nugent, Bailey Fong"]
+__license__ = "MIT"
+__email__ = "alpeterson@westmont.edu, mnugent@westmont.edu, bafong@westmont.edu"
+
 import os
 import pandas as pd
 from langchain_openai import ChatOpenAI
@@ -14,7 +20,6 @@ os.environ["OPENAI_API_KEY"] = "add key"
 
 # Initialize the OpenAI model
 model = ChatOpenAI(model="gpt-4o-mini")
-
 
 # Function to load and preprocess LEGO dataset
 DATASET_FOLDER = 'lego-database'  # Update this to your actual folder path
