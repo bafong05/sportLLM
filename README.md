@@ -11,7 +11,7 @@ Indication
 
 ## Presentation Link
 ```
-https://docs.google.com/presentation/d/1Ninc6L7NPDrAaPJ5UkKviA5uA03TxWqM43WgmZxp05I/edit#slide=id.g31db5e85c4b_0_0
+[Click here to view presentation](https://docs.google.com/presentation/d/1Ninc6L7NPDrAaPJ5UkKviA5uA03TxWqM43WgmZxp05I/edit#slide=id.g31db5e85c4b_0_0)
 ```
 
 ## Author Information
@@ -37,13 +37,15 @@ collect the data from the database, output recommendations of sets to build with
 of why this set was recommended.
 
 ## Sources 
-We used LangChain for the basic chatbot and then Kaggle to find a dataset.
+We used a [LangChain tutorial](https://python.langchain.com/docs/tutorials/chatbot/) for the basic chatbot, an [openAI API starter tutorial](https://platform.openai.com/docs/quickstart?language-preference=python) and then Kaggle to find a dataset.
 We used Google and ChatGPT for help along the way to get a better understanding of our project, clean up/ format our code, and to help us get ideas/ inspiration. 
 
-Chat GPT prompts:
-"Intersting Kaggle datasets"
-"How to download and use kaggle databases"
-"What are pandas and how to incorporate them"
+# Chat GPT prompts:
+- "Intersting Kaggle datasets"
+- "How to download and use kaggle databases"
+- "What are pandas and how to incorporate them"
+- "Format and re-order the code to make it clean and presentable"
+
 
 
 ## ChatGPT Success Score
