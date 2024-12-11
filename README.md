@@ -14,6 +14,13 @@ https://docs.google.com/presentation/d/1Ninc6L7NPDrAaPJ5UkKviA5uA03TxWqM43WgmZxp
 * **Name**: Allie Peterson, Meghan Nugent, Bailey Fong
 * **Email**: alpeterson@westmont.edu, mnugent@westmont.edu, bafong@westmont.edu
 
+## License
+__author__ = "Allie Peterson, Meghan Nugent, Bailey Fong"
+__copyright__ = "Copyright 2024, Westmont College, Allie Peterson, Meghan Nugent, Bailey Fong"
+__credits__ = ["Allie Peterson, Meghan Nugent, Bailey Fong"]
+__license__ = "MIT"
+__email__ = "alpeterson@westmont.edu, mnugent@westmont.edu, bafong@westmont.edu"
+
 ## How-to: 
 You just run it from terminal and interact with the chatbot. 
 
@@ -29,3 +36,6 @@ of why this set was recommended.
 We used LangChain for the basic chatbot and then Kaggle to link it up with a dataset.
 After understanding what was going on and making the code act as a chatbot in the terminal,
 I asked chatGPT to format and re-order the code to make it clean and presentable.
+
+## ChatGPT Success Score
+Final Average Score: 7.3/10
