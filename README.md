@@ -10,9 +10,9 @@ Indication
 *Assistant Professor* Mike Ryu (mryu@westmont.edu) 
 
 ## Presentation Link
-```
+
 [Click here to view presentation](https://docs.google.com/presentation/d/1Ninc6L7NPDrAaPJ5UkKviA5uA03TxWqM43WgmZxp05I/edit#slide=id.g31db5e85c4b_0_0)
-```
+
 
 ## Author Information
 * **Name**: Allie Peterson, Meghan Nugent, Bailey Fong
