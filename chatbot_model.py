@@ -23,6 +23,13 @@ DATASET_FOLDER = 'lego-database'  # Update this to your actual folder path
 # Function to load and preprocess LEGO dataset
 def load_data():
     print("Loading LEGO dataset...")
+
+    dataset_name = 'lego-database'
+    # Download the dataset
+    os.system(f"kaggle datasets download -d rtatman/{dataset_name}")
+    # Extract the files (specify extraction path)
+    os.system(f"unzip {dataset_name}.zip -d {dataset_name}")
+
     parts = pd.read_csv(os.path.join(DATASET_FOLDER, "parts.csv"))
     inventory_parts = pd.read_csv(os.path.join(DATASET_FOLDER, "inventory_parts.csv"))
 
